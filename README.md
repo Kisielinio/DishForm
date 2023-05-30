@@ -1,6 +1,6 @@
 # Dish Form
 
-## Link to github: https://kisielinio.github.io
+## Link: https://kisielinio.github.io/DishForm/
 
 ### Project Setup
 
